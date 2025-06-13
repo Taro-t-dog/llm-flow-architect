@@ -54,7 +54,7 @@ LLM-FLOW-ARCHITECTは、非構造化テキストデータから、実行可能�
 
 1. **リポジトリのクローン**
    ```bash
-   git clone https://github.com/your-username/llm-flow-architect.git
+   git clone https://github.com/Taro-t-dog/llm-flow-architect.git
    cd llm-flow-architect
    ```
 
@@ -91,4 +91,3 @@ LLM-FLOW-ARCHITECTは、非構造化テキストデータから、実行可能�
 
 4. **出力の活用**
    - 生成されたYAMLは画面に表示され、ダウンロードボタンからファイルとして保存できます。
-   
