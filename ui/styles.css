@@ -1,0 +1,15 @@
+/* シンプルで見やすいスタイル */
+.stTextArea textarea {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    background-color: #f4f4f9;
+}
+
+.stButton>button {
+    border-radius: 8px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
