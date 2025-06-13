@@ -1,0 +1,38 @@
+# ====================================================
+# LLM-FLOW-ARCHITECT Project Dependencies
+# ====================================================
+
+# --- Core Application Dependencies ---
+
+# The web framework for creating the user interface
+streamlit>=1.30.0
+
+# Google Gemini API client library
+google-generativeai>=0.5.0
+
+# OpenAI API client library
+openai>=1.16.0
+
+# For parsing and validating the generated YAML files
+PyYAML>=6.0
+
+
+# --- Optional: For Development and Testing ---
+# It is recommended to install these in a virtual environment for development.
+
+# # For code formatting and quality checks
+# flake8>=7.0.0
+# black>=24.0.0
+
+# # For static type checking
+# mypy>=1.9.0
+
+
+# ====================================================
+# Installation Instructions
+# ====================================================
+# To install all necessary libraries, run the following command in your terminal:
+#
+# pip install -r requirements.txt
+#
+# ====================================================
